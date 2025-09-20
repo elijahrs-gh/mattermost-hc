@@ -1,0 +1,10 @@
+/* Hide Free Edition label in the top bar */
+div.TeamEditionLabel {
+    display: none;
+}
+
+/* OR replace text */
+div.TeamEditionLabel::after {
+    content: "Self-Hosted";
+    display: inline-block;
+}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmattermost_webapp=self.webpackChunkmattermost_webapp||[]).push([[6031],{56031:(t,e,a)=>{function s(t){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}a.r(e),a.d(e,{default:()=>s})}}]);
+//# sourceMappingURL=6031.ba9899f4a252a126763a.js.map
