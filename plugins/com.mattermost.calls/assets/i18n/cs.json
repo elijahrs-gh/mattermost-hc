@@ -1,0 +1,58 @@
+[
+    {
+        "id": "app.add_user_session.group_calls_not_allowed_error",
+        "translation": "Hovory na nelicencovaných serverech jsou dostupné pouze v soukromých zprávách."
+    },
+    {
+        "id": "app.admin.concurrent_sessions_warning.enterprise",
+        "translation": "Důrazně doporučujeme [deploying the RTCD service](https://mattermost.com/pl/calls-deployment-the-rtcd-service) pro přenesení zpracování hovorů na samostatnou instanci, aby byla zachována výkonnost, škálovatelnost a spolehlivost vašeho hlavního serveru Mattermost."
+    },
+    {
+        "id": "app.admin.concurrent_sessions_warning.intro",
+        "translation": "Vaše instalace zažívá vysoké zatížení kvůli Mattermost hovorům, což může negativně ovlivnit výkon systému a jeho odezvu."
+    },
+    {
+        "id": "app.admin.concurrent_sessions_warning.team",
+        "translation": "Důrazně doporučujeme přejít na [Mattermost Enterprise Edition](https://mattermost.com/pl/install-enterprise-install-upgrade) a [deploying the RTCD service](https://mattermost.com/pl/calls-deployment-the-rtcd-service) pro přenesení zpracování hovorů na samostatnou instanci, aby byla zachována výkonnost, škálovatelnost a spolehlivost vašeho hlavního serveru Mattermost."
+    },
+    {
+        "id": "app.call.ended_message",
+        "translation": "Hovor skončil"
+    },
+    {
+        "id": "app.call.new_recording_and_transcription_message",
+        "translation": "Zde je nahrávka hovoru. Přepis se zpracovává a bude zveřejněn, jakmile bude připraven."
+    },
+    {
+        "id": "app.call.new_recording_message",
+        "translation": "Zde je nahrávka hovoru"
+    },
+    {
+        "id": "app.admin.concurrent_sessions_warning.pro_or_e0",
+        "translation": "Důrazně doporučujeme přejít na[Enterprise](https://mattermost.com/pricing/) a [deploying the RTCD service](https://mattermost.com/pl/calls-deployment-the-rtcd-service) pro přenesení zpracování hovorů na samostatnou instanci, aby byla zachována výkonnost, škálovatelnost a spolehlivost vašeho hlavního serveru Mattermost."
+    },
+    {
+        "id": "app.call.new_transcription_message",
+        "translation": "Zde je přepis hovoru"
+    },
+    {
+        "id": "app.call.started_message",
+        "translation": "{{.Username}} začal hovor"
+    },
+    {
+        "id": "app.call.started_message_fullname",
+        "translation": "{{.FirstName}} {{.LastName}} začal hovor"
+    },
+    {
+        "id": "app.push_notification.generic_message",
+        "translation": "Byli jste pozváni na hovor"
+    },
+    {
+        "id": "app.push_notification.inviting_message",
+        "translation": "{{.SenderName}} vás zve k hovoru"
+    },
+    {
+        "id": "app.save_config.error",
+        "translation": "Nepodařilo se uložit konfiguraci."
+    }
+]
