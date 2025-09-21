@@ -1,5 +1,5 @@
 bin/
-data/plugins/*.tar.gz
 logs/
 *.db
 config/config.json
+data/
